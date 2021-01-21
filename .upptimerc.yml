@@ -4,9 +4,9 @@ repo: status.takagi.blog # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: takagi-blog
+  - name: Blog
     url: https://takagi.blog/
-  - name: note-takag-blog
+  - name: Note
     url: https://note.takagi.blog/
 
 status-website:
