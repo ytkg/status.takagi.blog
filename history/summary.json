@@ -4,19 +4,19 @@
     "url": "https://takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/takagi.blog",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 263,
-    "timeWeek": 447,
-    "timeMonth": 594,
-    "timeYear": 482,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 481,
+    "timeDay": 321,
+    "timeWeek": 438,
+    "timeMonth": 586,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2021-03-27": 1
+      "2021-03-27": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://note.takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/note.takagi.blog",
     "slug": "note",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 348,
-    "timeWeek": 390,
-    "timeMonth": 415,
-    "timeYear": 404,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 402,
+    "timeDay": 316,
+    "timeWeek": 377,
+    "timeMonth": 411,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2021-03-27": 0
+      "2021-03-27": 12
     }
   }
 ]
