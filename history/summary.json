@@ -22,19 +22,19 @@
     "url": "https://note.takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/note.takagi.blog",
     "slug": "note",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 275,
-    "timeWeek": 293,
-    "timeMonth": 371,
-    "timeYear": 393,
+    "time": 391,
+    "timeDay": 187,
+    "timeWeek": 268,
+    "timeMonth": 362,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2021-04-28": 0
+      "2021-04-28": 6
     }
   }
 ]
