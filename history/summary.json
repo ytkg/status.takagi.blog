@@ -4,19 +4,19 @@
     "url": "https://takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/takagi.blog",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.96%",
     "time": 454,
-    "timeDay": 259,
-    "timeWeek": 337,
-    "timeMonth": 421,
+    "timeDay": 346,
+    "timeWeek": 349,
+    "timeMonth": 422,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-05-03": 0
+      "2021-05-03": 58
     }
   },
   {
