@@ -4,9 +4,9 @@
     "url": "https://takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/takagi.blog",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 337,
     "timeMonth": 421,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-03": 0
+    }
   },
   {
     "name": "Note",
