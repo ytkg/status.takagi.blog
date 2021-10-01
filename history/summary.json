@@ -4,10 +4,10 @@
     "url": "https://takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/takagi.blog",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 431,
@@ -16,6 +16,7 @@
     "timeMonth": 393,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2021-10-01": 2,
       "2021-05-03": 58
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://note.takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/note.takagi.blog",
     "slug": "note",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 249,
     "timeMonth": 393,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-01": 0
+    }
   }
 ]
