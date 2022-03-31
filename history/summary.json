@@ -24,7 +24,7 @@
     "url": "https://note.takagi.blog/",
     "icon": "https://favicons.githubusercontent.com/note.takagi.blog",
     "slug": "note",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 157,
     "timeMonth": 204,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   }
 ]
