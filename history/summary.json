@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 394,
-    "timeDay": 279,
-    "timeWeek": 299,
-    "timeMonth": 272,
-    "timeYear": 379,
+    "timeDay": 109,
+    "timeWeek": 285,
+    "timeMonth": 268,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2021-05-03": 58
     }
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/note.takagi.blog",
     "slug": "note",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "64.60%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.69%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "80.66%",
+    "uptimeMonth": "95.55%",
+    "uptimeYear": "99.63%",
     "time": 373,
     "timeDay": 0,
-    "timeWeek": 140,
-    "timeMonth": 203,
-    "timeYear": 367,
+    "timeWeek": 163,
+    "timeMonth": 200,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-04-01": 4,
+      "2022-04-02": 3,
+      "2022-04-01": 1440,
       "2022-03-31": 506
     }
   }
